@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Aryunas</string>
+
+    <string name="txt_tampilkan">Tampilkan</string>
+    <string name="txt_penghubung">-----</string>
+    <string name="txt_dari">Dari Tanggal</string>
+    <string name="txt_tanggal">Tanggal</string>
+    <string name="txt_jam">Jam</string>
+    <string name="txt_sampai">Sampai Tanggal</string>
+    <string name="txt_simpan">Simpan</string>
+
+    <string name="txt_nama">Nama</string>
+    <string name="txt_in">Check In</string>
+    <string name="txt_out">Check Out</string>
+    <string name="txt_harga">Harga</string>
+
+    <string name="txt_tambah">Tambah Data</string>
+    <string name="txt_perbarui">Perbarui Data</string>
+    <string name="txt_toast_warning">Masukan data dengan benar</string>
+    <string name="txt_toast_perbarui">Berhasil perbarui data</string>
+    <string name="txt_toast_tambah">Berhasil tambah data</string>
+    <string name="txt_toast_hapus">Berhasil hapus data</string>
+
+    <string name="txt_dialog_pesan">Hapus data ini?</string>
+    <string name="txt_dialog_ya">Ya</string>
+    <string name="txt_dialog_tidak">Tidak</string>
+
+    <string name="txt_cari">Cari nama</string>
+    <string name="txt_semua">Semua</string>
+    <string name="txt_cek_in">Berdasarkan Check In</string>
+    <string name="txt_cek_out">Berdasarkan Check Out</string>
+
+    <array name="listTgl">
+        <item>Semua</item>
+        <item>Berdasarkan Check In</item>
+        <item>Berdasarkan Check Out</item>
+    </array>
+</resources>
